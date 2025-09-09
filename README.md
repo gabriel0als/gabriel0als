@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Quem sou eu? 
-💻 Curso Técnico de Desenvolvimento de Sistemas no IFPR 
-🔥 Focado em programação, lógica, desenvolvimento web 
+Quem sou eu? <br>
+💻 Curso Técnico de Desenvolvimento de Sistemas no IFPR <br>
+🔥 Focado em programação, lógica, desenvolvimento web <br>
 🚀 Aprendendo PHP, HTML, CSS, MySQL
