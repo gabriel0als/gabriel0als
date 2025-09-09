@@ -19,4 +19,4 @@ Quem sou eu? <br>
 👦🏻 16 anos <br>
 💻 Curso Técnico de Desenvolvimento de Sistemas no IFPR <br>
 🔥 Focado em programação, lógica, desenvolvimento web <br>
-🚀 Aprendendo PHP, HTML, CSS, MySQL
+🚀 Aprendendo PHP, Python, HTML, CSS, MySQL
