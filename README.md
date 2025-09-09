@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Quem sou eu? <br>
-💻 Curso Técnico de Desenvolvimento de Sistemas no IFPR <br>
+👦🏻 16 anos <br>
 🔥 Focado em programação, lógica, desenvolvimento web <br>
 🚀 Aprendendo PHP, HTML, CSS, MySQL
