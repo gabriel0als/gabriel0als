@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Quem sou eu? 
+💻 Curso Técnico de Desenvolvimento de Sistemas no IFPR 
+🔥 Focado em programação, lógica, desenvolvimento web 
+🚀 Aprendendo PHP, HTML, CSS, MySQL
